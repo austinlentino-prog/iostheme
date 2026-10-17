@@ -1,0 +1,8 @@
+Origin: Austin Repo
+Label: Austin Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Austin's Cydia Repo for iOS 12–15 (rootless)

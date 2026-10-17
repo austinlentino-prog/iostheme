@@ -1,0 +1,8 @@
+Package: com.austin.ios11icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Austin
+Filename: debs/iOS11Icons.deb
+Size: 12345
+Section: Themes
+Description: iOS 11 icon theme for iOS 12–15 (rootless)
